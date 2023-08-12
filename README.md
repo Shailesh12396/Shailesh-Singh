@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shailesh12396
+- 👋 Hi, I’m @Shailesh Singh
 - 👀 I’m interested in programminng
 - 🌱 I’m currently learning Bachelor Of Computer Application
 - 📫 My email id is shaileshsingh12396@gmail.com
