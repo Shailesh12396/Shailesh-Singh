@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shailesh Singh
-- 👀 I’m interested in programminng
-- 🌱 I’m currently learning Bachelor Of Computer Application
+- 👀 I’m interested in programming and web development
+- 🌱 Student of Master's Of Computer Application
 - 📫 My email id is shaileshsingh12396@gmail.com
 
 <!---
